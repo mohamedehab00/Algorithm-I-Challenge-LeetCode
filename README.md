@@ -1,9 +1,9 @@
 
 # Algorithm I Challenge LeetCode <img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="80" height="80" align="right" />
 
-#### 14 Days Study Plan to Crack Algo Challenge (Algoithm I) 🧑🏻‍💻
+#### 14 Days Study Plan to Crack Algo Challenge (Algorithm I) 🧑🏻‍💻
 
-#### 14 Days Study Plan to Crack Algo Challenge (Algoithm I) Link : [Challenge link](https://leetcode.com/study-plan/algorithm/)
+#### 14 Days Study Plan to Crack Algo Challenge (Algorithm I) Link : [Challenge link](https://leetcode.com/study-plan/algorithm/)
 
 #### LeetCode Link : [Website link](https://leetcode.com)
 
